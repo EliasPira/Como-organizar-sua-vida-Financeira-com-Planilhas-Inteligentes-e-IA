@@ -32,7 +32,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | "Imagine a spreadsheet with a family financial budget, with the results presented in a beautiful dashboard "on a laptop screen." |
+| Imagem | "Imagine a spreadsheet with a family financial budget, with the results presented in a beautiful dashboard "on a laptop screen." |
 
 ## ✨ Features
 
