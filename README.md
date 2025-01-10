@@ -1,4 +1,3 @@
-# Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
@@ -19,7 +18,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente para organizar orçamento familiar.
 
-<a href="https://github.com/EliasPira/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/main/Saida/PlanilhasInteligentes.xlsx" title="View Planilha now"> 📕Clique aqui para ler</a>
+<a href="https://1drv.ms/x/c/c7138c90b86afe76/Ech8IcFycnpEr232nWQpduQBl2YBQlP3tXyIwtCp9d_p8Q?e=efAfu4"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
