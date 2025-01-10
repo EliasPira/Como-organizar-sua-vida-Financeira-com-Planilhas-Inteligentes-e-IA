@@ -50,5 +50,18 @@ Midjourney：
 Utilize os prompts acima nas ferramentas sugeridas para gerar a imagem e utilize uma ferramenta de planilhas eletronicas como Excel, para criar a planilha.
 
 ## 👨‍💻 Expert
-https://github.com/EliasPira
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/189679772?s=400&u=4614f09cc0678d91234b5688ae3b7e90c38f6cf1&v=4"
+    />
+    <p>&nbsp&nbsp&nbspElias Acosta<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/EliasPira">
+        GitHub
+    </a>
 
