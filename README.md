@@ -18,7 +18,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente para organizar orçamento familiar.
 
-<a href="https://1drv.ms/x/c/c7138c90b86afe76/Ech8IcFycnpEr232nWQpduQBl2YBQlP3tXyIwtCp9d_p8Q?e=efAfu4"> 📕Clique aqui para ler</a>
+<a href="Saida/PlanilhasInteligentes.xlsx"> 📕Clique aqui para vizualizar</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
