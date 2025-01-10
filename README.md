@@ -19,7 +19,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente para organizar orçamento familiar.
 
-<a href="https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/output/Ebook%20-%20Transformando%20Criptoativos%20em%20Valor%20Real.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/EliasPira/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/main/Saida/PlanilhasInteligentes.xlsx" title="View Planilha now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
