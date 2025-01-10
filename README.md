@@ -18,7 +18,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente para organizar orçamento familiar.
 
-<a href="Saida/PlanilhasInteligentes.xlsx"> 📕Clique aqui para vizualizar</a>
+<a href="https://github.com/EliasPira/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/raw/refs/heads/main/Saida/PlanilhasInteligentes.xlsx"> 📕Clique aqui para vizualizar</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
