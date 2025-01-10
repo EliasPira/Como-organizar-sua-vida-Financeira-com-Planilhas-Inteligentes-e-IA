@@ -7,7 +7,7 @@
 
 <p align="center">
 <img width="400"
-    src="https://github.com/EliasPira/prompts-recipe-to-create-a-ebook/blob/EliasPira-patch-1/assets/Capa_ebook.png"
+    src="Entradas/Plan_Laptop.png"
 >
 </p>
 
