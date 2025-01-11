@@ -36,14 +36,14 @@ Midjourney：
 
 ## ✨ Features
 
-- Insights gerado via ChatGPT
+- Insights gerado via ChatGPT e Microsoft Copilot
 - Imagens geradas via MidJourney
-- Planilha gerada via Excel
+- PDF gerado via Word
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `entradas`
-- Planilha gerada durante as aulas em `Saída`
+- PDF gerado durante as aulas em `Saída`
 
 ## 🛠️ Instruções de execução
 
